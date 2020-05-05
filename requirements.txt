@@ -1,0 +1,2 @@
+XlsxWriter==1.2.7
+docx==0.2.4
